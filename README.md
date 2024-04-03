@@ -56,7 +56,7 @@ server {
     }
 }
 ```
-** Don't forget to replace `your_droplet_ip_address` with your actual droplet IP address.
+** Don't forget to replace `your_droplet_ip_address` with your actual droplet IP address. **
 
 4. Now you created a new server block inside of your nginx configuration file. But, There's one more step left : Creating `sites-enabled` directory. This directory is to link with your configuration file.
 
